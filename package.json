@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "knex": "^0.13.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+  	"test": "jest *.test.js"
+  }
+}
